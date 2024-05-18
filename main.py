@@ -60,7 +60,7 @@ async def preprocess_image(file: UploadFile = File(...)):
 
 @app.get("/get_info/{key}")
 async def get_info(key: str):
-    if key in data["entries"][0]:
-        return data["entries"][0][key]
-    else:
-        return {"message": "Key not found in the data."}
+    for entry in data["entries"]:
+        if key in entry:
+            return entry[key]
+    return {"message": "Key not found in the data."}
