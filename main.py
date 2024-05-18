@@ -3,8 +3,12 @@ from fastapi.responses import StreamingResponse
 import cv2
 import numpy as np
 import io
+import json
 
 app = FastAPI()
+
+with open('coin_information.json') as f:
+    data = json.load(f)
 
 def preprocessimage(image):
     offset = 1
@@ -53,3 +57,10 @@ async def preprocess_image(file: UploadFile = File(...)):
         return StreamingResponse(io.BytesIO(preprocessed_img), media_type="image/jpeg")
     else:
         return {"message": "No circles detected in the image."}
+
+@app.get("/get_info/{key}")
+async def get_info(key: str):
+    if key in data["entries"][0]:
+        return data["entries"][0][key]
+    else:
+        return {"message": "Key not found in the data."}
