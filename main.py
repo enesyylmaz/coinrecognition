@@ -31,7 +31,7 @@ def preprocessimage(image):
 	if circles is not None:
 		original = np.array(circles, copy=True)
 		circles = np.uint16(np.around(circles))
-		mask = np.zeros_like(orgGray)
+		mask = np.zeros_like(image)
 
 		maxCircle = max(circles[0, :], key=lambda x: x[2])
 		radius = int(maxCircle[2] * offset)
