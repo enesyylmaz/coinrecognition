@@ -44,10 +44,6 @@ def preprocessimage(image):
 
 		result = cv2.bitwise_and(org, org, mask=mask)
 		isolated = result[top:bottom, left:right]
-		
-		isolated = cv2.cvtColor(isolated, cv2.COLOR_BGR2RGB)
-		isolated = cv2.resize(isolated, (256,256))
-		
 
 		_, img_encoded = cv2.imencode('.jpg', isolated)
 		return img_encoded.tobytes()
