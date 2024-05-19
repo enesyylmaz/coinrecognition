@@ -15,8 +15,7 @@ def preprocessimage(image):
     param2Value = 110
     param2Change = 7
 
-    org = cv2.imdecode(np.frombuffer(image, np.uint8), -1)
-    orgGray = cv2.cvtColor(org, cv2.COLOR_BGR2GRAY)
+    orgGray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     orgGray = cv2.blur(orgGray, (7, 7))
 
     height, width = orgGray.shape[:2]
