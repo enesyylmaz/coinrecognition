@@ -16,7 +16,7 @@ def preprocessimage(image):
 	param2Change = 7
 
 	org = cv2.imdecode(np.frombuffer(image, np.uint8), -1)
-	image = cv2.cvtColor(org, cv2.COLOR_BGR2GRAY)
+	image = cv2.cvtColor(org, cv2.COLOR_RGB2GRAY)
 	image = cv2.blur(image, (7,7))
 	orgGray = np.array(image, copy=True)
 
@@ -45,7 +45,6 @@ def preprocessimage(image):
 		result = cv2.bitwise_and(org, org, mask=mask)
 		isolated = result[top:bottom, left:right]
 
-		isolated = cv2.cvtColor(isolated, cv2.COLOR_BGR2RGB)
 		isolated = cv2.resize(isolated, (256,256))
 		  
 		_, img_encoded = cv2.imencode('.jpg', isolated)
