@@ -4,6 +4,7 @@ import cv2
 import numpy as np
 import io
 import json
+from PIL import Image
 
 app = FastAPI()
 
