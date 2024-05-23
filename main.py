@@ -88,9 +88,7 @@ def concat_images(image1, image2):
     concatenated_image = Image.new('RGB', (total_width, max_height))
     concatenated_image.paste(img1, (0, 0))
     concatenated_image.paste(img2, (img1.width, 0))
-    byte_array = io.BytesIO()
-    concatenated_image.save(byte_array, format="JPEG")
-    return byte_array.getvalue()
+    return concatenated_image.tobytes()
 
 @app.post("/preprocess_concat_image/")
 async def preprocess_image(file: UploadFile = File(...)):
