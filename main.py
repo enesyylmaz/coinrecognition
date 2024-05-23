@@ -11,13 +11,19 @@ app = FastAPI()
 with open('coin_information.json') as f:
 	data = json.load(f)
 
+def img_decode(image):
+	return cv2.imdecode(np.frombuffer(image, np.uint8), -1)
+
+def img_encode(image):
+	_, img_encoded = cv2.imencode('.jpg', image)
+	return img_encoded.tobytes()
+
 def preprocessimage(image):
 	offset = 1
 	param2Value = 110
 	param2Change = 7
 
-	org = cv2.imdecode(np.frombuffer(image, np.uint8), -1)
-	image = cv2.cvtColor(org, cv2.COLOR_RGB2GRAY)
+	image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
 	image = cv2.blur(image, (7,7))
 	orgGray = np.array(image, copy=True)
 
@@ -47,18 +53,22 @@ def preprocessimage(image):
 		isolated = result[top:bottom, left:right]
 
 		isolated = cv2.resize(isolated, (256,256))
-		  
-		_, img_encoded = cv2.imencode('.jpg', isolated)
-		return img_encoded.tobytes()
+
+		img_byte_arr = io.BytesIO()
+		isolated.save(img_byte_arr, format='JPEG')
+	
+		return isolated.getvalue()
 	else:
 		return None
 
 @app.post("/preprocess_image/")
 async def preprocess_image(file: UploadFile = File(...)):
 	contents = await file.read()
-	preprocessed_img = preprocessimage(contents)
+	decoded_img = img_decode(contents)
+	preprocessed_img = preprocessimage(decoded_img)
+	encoded_img = img_encode(preprocessed_img)
 	if preprocessed_img:
-		return StreamingResponse(io.BytesIO(preprocessed_img), media_type="image/jpeg")
+		return StreamingResponse(io.BytesIO(encoded_img), media_type="image/jpeg")
 	else:
 		return {"message": "No circles detected in the image."}
 
@@ -69,46 +79,49 @@ async def get_info(key: str):
 			return entry[key]
 	return {"message": "Key not found in the data."}
 
+
 def split_images(image):
-    img = Image.open(io.BytesIO(image))
-    width, height = img.size
+	img = Image.open(io.BytesIO(image))
+	width, height = img.size
 
-    img1 = img.crop((0, 0, width // 2, height))
-    img2 = img.crop((width // 2, 0, width, height))
+	img1 = img.crop((0, 0, width // 2, height))
+	img2 = img.crop((width // 2, 0, width, height))
 
-    img1_byte_arr = io.BytesIO()
-    img2_byte_arr = io.BytesIO()
+	img1_byte_arr = io.BytesIO()
+	img2_byte_arr = io.BytesIO()
 
-    img1.save(img1_byte_arr, format='JPEG')
-    img2.save(img2_byte_arr, format='JPEG')
+	img1.save(img1_byte_arr, format='JPEG')
+	img2.save(img2_byte_arr, format='JPEG')
 
-    return img1_byte_arr.getvalue(), img2_byte_arr.getvalue()
+	return img1_byte_arr.getvalue(), img2_byte_arr.getvalue()
 
 def concat_images(image1, image2):
-    img1 = Image.open(io.BytesIO(image1))
-    img2 = Image.open(io.BytesIO(image2))
+	img1 = Image.open(io.BytesIO(image1))
+	img2 = Image.open(io.BytesIO(image2))
 
-    total_width = img1.width + img2.width
-    max_height = max(img1.height, img2.height)
+	total_width = img1.width + img2.width
+	max_height = max(img1.height, img2.height)
 
-    new_img = Image.new('RGB', (total_width, max_height))
-    new_img.paste(img1, (0, 0))
-    new_img.paste(img2, (img1.width, 0))
+	new_img = Image.new('RGB', (total_width, max_height))
+	new_img.paste(img1, (0, 0))
+	new_img.paste(img2, (img1.width, 0))
 
-    img_byte_arr = io.BytesIO()
-    new_img.save(img_byte_arr, format='JPEG')
-    
-    return img_byte_arr.getvalue()
+	img_byte_arr = io.BytesIO()
+	new_img.save(img_byte_arr, format='JPEG')
+	
+	return img_byte_arr.getvalue()
 
 
 @app.post("/preprocess_concat_image/")
 async def preprocess_image(file: UploadFile = File(...)):
-    contents = await file.read()
-    try:
-        img1_data, img2_data = split_images(contents)
-        preprocessed_img1 = preprocessimage(img1_data)
-        preprocessed_img2 = preprocessimage(img2_data)
-        concatenated_image = concat_images(preprocessed_img1, preprocessed_img2)
-        return StreamingResponse(io.BytesIO(concatenated_image), media_type="image/jpeg")
-    except Exception as e:
-        return {"message": f"An error occurred: {e}"}
+	contents = await file.read()
+	try:
+		decoded_img = img_decode(contents)
+		img1_data, img2_data = split_images(decoded_img)
+		preprocessed_img1 = preprocessimage(img1_data)
+		preprocessed_img2 = preprocessimage(img2_data)
+		concatenated_image = concat_images(preprocessed_img1, preprocessed_img2)
+		encoded_img = img_encode(concatenated_image)
+		return StreamingResponse(io.BytesIO(encoded_img), media_type="image/jpeg")
+	except Exception as e:
+		return {"message": f"An error occurred: {e}"}
