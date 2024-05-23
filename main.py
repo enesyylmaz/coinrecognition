@@ -67,3 +67,39 @@ async def get_info(key: str):
 		if key in entry:
 			return entry[key]
 	return {"message": "Key not found in the data."}
+
+
+def split_images(image_array):
+    image = Image.open(io.BytesIO(image_array))
+    width, height = image.size
+    img1 = image.crop((0, 0, width // 2, height))
+    img2 = image.crop((width // 2, 0, width, height))
+    img1_byte_array = io.BytesIO()
+    img1.save(img1_byte_array, format="JPEG")
+    img2_byte_array = io.BytesIO()
+    img2.save(img2_byte_array, format="JPEG")
+    return img1_byte_array.getvalue(), img2_byte_array.getvalue()
+
+def concat_images(image1, image2):
+    img1 = Image.open(io.BytesIO(image1))
+    img2 = Image.open(io.BytesIO(image2))
+    total_width = img1.width + img2.width
+    max_height = max(img1.height, img2.height)
+    concatenated_image = Image.new('RGB', (total_width, max_height))
+    concatenated_image.paste(img1, (0, 0))
+    concatenated_image.paste(img2, (img1.width, 0))
+    byte_array = io.BytesIO()
+    concatenated_image.save(byte_array, format="JPEG")
+    return byte_array.getvalue()
+
+@app.post("/preprocess_concat_image/")
+async def preprocess_image(file: UploadFile = File(...)):
+    contents = await file.read()
+    try:
+        img1_data, img2_data = split_images(contents)
+        preprocessed_img1 = preprocessimage(img1_data)
+        preprocessed_img2 = preprocessimage(img2_data)
+        concatenated_image = concat_images(preprocessed_img1, preprocessed_img2)
+        return StreamingResponse(io.BytesIO(concatenated_image), media_type="image/jpeg")
+    except Exception as e:
+        return {"message": f"An error occurred: {e}"}
