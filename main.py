@@ -53,11 +53,8 @@ def preprocessimage(image):
 		isolated = result[top:bottom, left:right]
 
 		isolated = cv2.resize(isolated, (256,256))
-
-		img_byte_arr = io.BytesIO()
-		isolated.save(img_byte_arr, format='JPEG')
 	
-		return isolated.getvalue()
+		return isolated
 	else:
 		return None
 
@@ -81,35 +78,23 @@ async def get_info(key: str):
 
 
 def split_images(image):
-	img = Image.open(io.BytesIO(image))
-	width, height = img.size
+	width, height = imgage.size
 
-	img1 = img.crop((0, 0, width // 2, height))
-	img2 = img.crop((width // 2, 0, width, height))
+	img1 = image.crop((0, 0, width // 2, height))
+	img2 = image.crop((width // 2, 0, width, height))
 
-	img1_byte_arr = io.BytesIO()
-	img2_byte_arr = io.BytesIO()
-
-	img1.save(img1_byte_arr, format='JPEG')
-	img2.save(img2_byte_arr, format='JPEG')
-
-	return img1_byte_arr.getvalue(), img2_byte_arr.getvalue()
+	return img1, img2
 
 def concat_images(image1, image2):
-	img1 = Image.open(io.BytesIO(image1))
-	img2 = Image.open(io.BytesIO(image2))
 
-	total_width = img1.width + img2.width
-	max_height = max(img1.height, img2.height)
+	total_width = image1.width + image2.width
+	max_height = max(image1.height, image2.height)
 
 	new_img = Image.new('RGB', (total_width, max_height))
 	new_img.paste(img1, (0, 0))
 	new_img.paste(img2, (img1.width, 0))
-
-	img_byte_arr = io.BytesIO()
-	new_img.save(img_byte_arr, format='JPEG')
 	
-	return img_byte_arr.getvalue()
+	return new_img
 
 
 @app.post("/preprocess_concat_image/")
