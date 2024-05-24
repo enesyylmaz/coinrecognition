@@ -23,22 +23,22 @@ def preprocessimage(image):
 	param2Value = 110
 	param2Change = 7
 
-	image = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
-	image = cv2.blur(image, (7,7))
-	orgGray = np.array(image, copy=True)
+	image1 = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
+	image1 = cv2.blur(image1, (7,7))
+	orgGray = np.array(image1, copy=True)
 
 	height, width = image.shape[:2]
 	circles = None
 	while (circles is None) and (param2Value > 50) :
-		image = np.array(orgGray, copy=True)
-		circles = cv2.HoughCircles(image,cv2.HOUGH_GRADIENT,1,40,
+		image1 = np.array(orgGray, copy=True)
+		circles = cv2.HoughCircles(image1,cv2.HOUGH_GRADIENT,1,40,
 								param1=60,param2=param2Value,minRadius=0,maxRadius=0)
 		param2Value -= param2Change
 	
 	if circles is not None:
 		original = np.array(circles, copy=True)
 		circles = np.uint16(np.around(circles))
-		mask = np.zeros_like(image)
+		mask = np.zeros_like(image1)
 
 		maxCircle = max(circles[0, :], key = lambda x: x[2])
 		radius = int(maxCircle[2] * offset)
@@ -49,7 +49,7 @@ def preprocessimage(image):
 		left = int(maxCircle[0] - radius)
 		right = int(maxCircle[0] + radius)
 		
-		result = cv2.bitwise_and(org, org, mask=mask)
+		result = cv2.bitwise_and(image, image, mask=mask)
 		isolated = result[top:bottom, left:right]
 
 		isolated = cv2.resize(isolated, (256,256))
