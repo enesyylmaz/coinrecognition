@@ -146,12 +146,12 @@ async def upload_file(file: UploadFile = File(...)):
     reduced_quality_image.save(reduced_quality_filepath, quality=90)
 
     async with aiofiles.open(reduced_quality_filepath, 'rb') as f:
-        preprocessed_image = preprocess_image(f)  # Directly call preprocess_image function
-        if isinstance(preprocessed_image, JSONResponse):  # Check if it's an error response
-            return preprocessed_image
+        response = requests.post("https://coinrecognition.onrender.com/preprocess_image/", files={"file": f})
+        if response.status_code != 200:
+            raise HTTPException(status_code=500, detail="Failed to preprocess image")
 
     try:
-        final_image = Image.open(BytesIO(preprocessed_image.content))
+        final_image = Image.open(BytesIO(response.content))
     except UnidentifiedImageError:
         raise HTTPException(status_code=500, detail="Cannot identify final image file")
 
@@ -163,8 +163,8 @@ async def upload_file(file: UploadFile = File(...)):
     predictions = await send_to_model(image_np)
     predicted_class = class_names[np.argmax(predictions['predictions'][0])]
 
-    key = predicted_class[:-1]
-    coin_info = get_info(key)  # Directly call get_info function
+    key = predicted_class
+    coin_info = requests.get(f"https://coinrecognition.onrender.com/get_info/{key}").json()
 
     return JSONResponse(content={
         "message": "File uploaded successfully",

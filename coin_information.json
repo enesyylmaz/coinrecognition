@@ -1,380 +1,427 @@
 {
     "entries": [
         {
-            "671": {
-                "Number": "KM# 671",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+            "10150": {
+                "Number": "KM# 1015",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
                 "Coin type": "Circulation coins",
-                "Denomination": "1 kurus",
-                "Year": "AH 1255 (1839) - ١٢٥٥",
-                "Ruler": "Abdülmecid I",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded",
+                "Denomination": "2.500 lira",
+                "Year": "1991-1998",
+                "Composition": "Nickel-Bronze",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKIYE CUMHURIYETI'",
                 "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "1.2",
-                "Diameter (mm)": "14.5",
-                "Thickness (mm)": "Unknown (help us to know)"
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "9.3",
+                "Diameter (mm)": "27.25",
+                "Thickness (mm)": "2.2"
             }
         },
         {
-            "675": {
-                "Number": "KM# 675",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+            "10151": {
+                "Number": "KM# 1015",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
                 "Coin type": "Circulation coins",
-                "Denomination": "20 kurus",
-                "Year": "AH 1255 (1839) - ١٢٥٥",
-                "Ruler": "Abdülmecid I",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded",
+                "Denomination": "2.500 lira",
+                "Year": "1991-1998",
+                "Composition": "Nickel-Bronze",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKIYE CUMHURIYETI'",
                 "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "24.06",
-                "Diameter (mm)": "36.8",
-                "Thickness (mm)": "2.3"
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "9.3",
+                "Diameter (mm)": "27.25",
+                "Thickness (mm)": "2.2"
             }
         },
         {
-            "666": {
-                "Number": "KM# 666",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+            "10250": {
+                "Number": "KM# 1025",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
                 "Coin type": "Circulation coins",
-                "Denomination": "5 para",
-                "Year": "AH 1255 (1839) - ١٢٥٥",
-                "Ruler": "Abdülmecid I",
-                "Composition": "Copper",
-                "Edge type": "Smooth",
+                "Denomination": "5.000 lira",
+                "Year": "1992-1994",
+                "Composition": "Nickel-Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKIYE CUMHURIYETI'",
                 "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "4",
-                "Diameter (mm)": "21.2",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "10.3",
+                "Diameter (mm)": "28.5",
+                "Thickness (mm)": "2.04"
+            }
+        },
+        {
+            "10251": {
+                "Number": "KM# 1025",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5.000 lira",
+                "Year": "1992-1994",
+                "Composition": "Nickel-Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKIYE CUMHURIYETI'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "10.3",
+                "Diameter (mm)": "28.5",
+                "Thickness (mm)": "2.04"
+            }
+        },
+        {
+            "10270": {
+                "Number": "KM# 1027, KM#1027.1",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2001 - 2004)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10.000 lira",
+                "Year": "1997-2001",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded with lettering",
+                "Edge description": "'T.C. T.C. T.C. T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "6.75",
+                "Diameter (mm)": "23.5",
+                "Thickness (mm)": "2.1"
+            }
+        },
+        {
+            "10271": {
+                "Number": "KM# 1027, KM#1027.1",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2001 - 2004)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10.000 lira",
+                "Year": "1997-2001",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded with lettering",
+                "Edge description": "'T.C. T.C. T.C. T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "6.75",
+                "Diameter (mm)": "23.5",
+                "Thickness (mm)": "2.1"
+            }
+        },
+        {
+            "10280": {
+                "Number": "KM# 1028",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1.000 lira",
+                "Year": "1995-1998",
+                "Composition": "Bronze plated Brass",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "3.07",
+                "Diameter (mm)": "16.93",
                 "Thickness (mm)": "1.8"
             }
         },
         {
-            "667": {
-                "Number": "KM# 667",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Abdülmecid I (1839 - 1861)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 para",
-                "Year": "AH 1255 (1839) - ١٢٥٥",
-                "Ruler": "Abdülmecid I",
-                "Composition": "Copper",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "7.5",
-                "Diameter (mm)": "27.3",
-                "Thickness (mm)": "1.6"
-            }
-        },
-        {
-            "670": {
-                "Number": "KM# 670",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Abdülmecid I (1839 - 1861)",
-                "Coin type": "Circulation coins",
-                "Denomination": "40 para",
-                "Year": "AH 1255 (1839) - ١٢٥٥",
-                "Ruler": "Abdülmecid I",
-                "Composition": "Copper",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "21.2",
-                "Diameter (mm)": "37",
-                "Thickness (mm)": "2.32"
-            }
-        },
-        {
-            "596": {
-                "Number": "KM# 596",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Mahmud II (1808 - 1838)",
-                "Coin type": "Circulation coins",
-                "Denomination": "20 para",
-                "Year": "AH 1223 (1808) - ١٢٢٣",
-                "Ruler": "Mahmud II",
-                "Composition": "Silver 0.170",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "1.35",
-                "Diameter (mm)": "21",
-                "Thickness (mm)": "0.6"
-            }
-        },
-        {
-            "603": {
-                "Number": "KM# 603",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Mahmud II (1808 - 1838)",
-                "Coin type": "Circulation coins",
-                "Denomination": "6 kurus",
-                "Year": "AH 1223 (1808) - ١٢٢٣",
-                "Ruler": "Mahmud II",
-                "Composition": "Silver 0.435",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "12",
-                "Diameter (mm)": "38",
-                "Thickness (mm)": "1.5"
-            }
-        },
-        {
-            "868": {
-                "Number": "KM# 868",
+            "10281": {
+                "Number": "KM# 1028",
                 "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
+                "Period": "Republic of Turkey (1981 - 2000)",
                 "Coin type": "Circulation coins",
-                "Denomination": "10 para",
-                "Year": "1940-1942",
-                "Composition": "Aluminium-Bronze",
+                "Denomination": "1.000 lira",
+                "Year": "1995-1998",
+                "Composition": "Bronze plated Brass",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "3.07",
+                "Diameter (mm)": "16.93",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "10290": {
+                "Number": "KM# 1029.1, KM# 1029.2",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5.000 lira",
+                "Year": "1995-1998",
+                "Composition": "Brass",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "5.98",
+                "Diameter (mm)": "19.48",
+                "Thickness (mm)": "2.2"
+            }
+        },
+        {
+            "10291": {
+                "Number": "KM# 1029.1, KM# 1029.2",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5.000 lira",
+                "Year": "1995-1998",
+                "Composition": "Brass",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "5.98",
+                "Diameter (mm)": "19.48",
+                "Thickness (mm)": "2.2"
+            }
+        },
+        {
+            "10410": {
+                "Number": "KM# 1041",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25.000 lira",
+                "Year": "1995-2000",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C. T.C. T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.1",
+                "Diameter (mm)": "26.5",
+                "Thickness (mm)": "2.68"
+            }
+        },
+        {
+            "10411": {
+                "Number": "KM# 1041",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25.000 lira",
+                "Year": "1995-2000",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C. T.C. T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.1",
+                "Diameter (mm)": "26.5",
+                "Thickness (mm)": "2.68"
+            }
+        },
+        {
+            "10560": {
+                "Number": "KM# 1056",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50.000 lira",
+                "Year": "1996-2000",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C. T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.6",
+                "Diameter (mm)": "28",
+                "Thickness (mm)": "2.3"
+            }
+        },
+        {
+            "10561": {
+                "Number": "KM# 1056",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50.000 lira",
+                "Year": "1996-2000",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C. T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.6",
+                "Diameter (mm)": "28",
+                "Thickness (mm)": "2.3"
+            }
+        },
+        {
+            "10780": {
+                "Number": "KM# 1078",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100.000 lira",
+                "Year": "1999-2000",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "7.6",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "10781": {
+                "Number": "KM# 1078",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100.000 lira",
+                "Year": "1999-2000",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "7.6",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "11040": {
+                "Number": "KM# 1104",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2001 - 2004)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25.000 lira",
+                "Year": "2001-2004",
+                "Composition": "Copper-Zinc",
                 "Edge type": "Smooth",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "2",
+                "Weight (g)": "2.7",
                 "Diameter (mm)": "17",
-                "Thickness (mm)": "1.25"
-            }
-        },
-        {
-            "867": {
-                "Number": "KM# 867",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 kurus",
-                "Year": "1938-1944",
-                "Composition": "Copper-Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Scallop",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2.4",
-                "Diameter (mm)": "18.5",
-                "Thickness (mm)": "1.18"
-            }
-        },
-        {
-            "869": {
-                "Number": "KM# 869",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 lira",
-                "Year": "1940-1941",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "12",
-                "Diameter (mm)": "29",
-                "Thickness (mm)": "1.93"
-            }
-        },
-        {
-            "862": {
-                "Number": "KM# 862",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Year": "1935-1943",
-                "Composition": "Copper-Nickel",
-                "Edge type": "Reeded and smooth section",
-                "Edge description": "'T.C. T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "4",
-                "Diameter (mm)": "21.5",
-                "Thickness (mm)": "1.4"
-            }
-        },
-        {
-            "863": {
-                "Number": "KM# 863",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 kurus",
-                "Year": "1935-1940",
-                "Composition": "Copper-Nickel",
-                "Edge type": "Reeded and smooth section",
-                "Edge description": "'T.C. T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "5.8",
-                "Diameter (mm)": "25.5",
-                "Thickness (mm)": "1.4"
-            }
-        },
-        {
-            "866": {
-                "Number": "KM# 866",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 lira",
-                "Year": "1937-1939",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "12",
-                "Diameter (mm)": "29",
-                "Thickness (mm)": "1.93"
-            }
-        },
-        {
-            "861": {
-                "Number": "KM# 861",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 kurus",
-                "Year": "1935-1937",
-                "Composition": "Copper-Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2.5",
-                "Diameter (mm)": "18.5",
-                "Thickness (mm)": "1.13"
-            }
-        },
-        {
-            "864": {
-                "Number": "KM# 864",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25 kurus",
-                "Year": "1935-1937",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded with lettering",
-                "Edge description": "'T.C. * T.C. * T.C. *'",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "3",
-                "Diameter (mm)": "19",
-                "Thickness (mm)": "1"
-            }
-        },
-        {
-            "865": {
-                "Number": "KM# 865",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50 kurus",
-                "Year": "1935-1937",
-                "Composition": "Silver 0.830",
-                "Edge type": "Lettered",
-                "Edge description": "'IIIII * T. C.* IIIII'",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "6",
-                "Diameter (mm)": "24",
                 "Thickness (mm)": "1.5"
             }
         },
         {
-            "860": {
-                "Number": "KM# 860",
+            "11041": {
+                "Number": "KM# 1104",
                 "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
+                "Period": "Republic of Turkey (2001 - 2004)",
                 "Coin type": "Circulation coins",
-                "Denomination": "100 kurus",
-                "Year": "1934",
-                "Composition": "Silver 0.830",
-                "Edge type": "Lettered",
-                "Edge description": "'* T. C. *'",
+                "Denomination": "25.000 lira",
+                "Year": "2001-2004",
+                "Composition": "Copper-Zinc",
+                "Edge type": "Smooth",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "12",
-                "Diameter (mm)": "29",
-                "Thickness (mm)": "1.95"
+                "Weight (g)": "2.7",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.5"
             }
         },
         {
-            "1166": {
-                "Number": "KM# 1166",
+            "11050": {
+                "Number": "KM# 1105",
                 "Country": "Turkey",
-                "Period": "Republic of Turkey (2005 - 2023)",
+                "Period": "Republic of Turkey (2001 - 2004)",
                 "Coin type": "Circulation coins",
-                "Denomination": "10 new kurus",
-                "Currency rate": "0.1 TRY = 0.003 USD",
-                "Year": "2005-2008",
+                "Denomination": "50.000 lira",
+                "Year": "2001-2004",
                 "Composition": "Copper-Zinc-Nickel",
                 "Edge type": "Smooth",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "3.85",
-                "Diameter (mm)": "19.25",
-                "Thickness (mm)": "1.7"
+                "Weight (g)": "3.2",
+                "Diameter (mm)": "17.5",
+                "Thickness (mm)": "1.5"
             }
         },
         {
-            "1167": {
-                "Number": "KM# 1167",
+            "11051": {
+                "Number": "KM# 1105",
                 "Country": "Turkey",
-                "Period": "Republic of Turkey (2005 - 2023)",
+                "Period": "Republic of Turkey (2001 - 2004)",
                 "Coin type": "Circulation coins",
-                "Denomination": "25 new kurus",
-                "Currency rate": "0.25 TRY = 0.008 USD",
-                "Year": "2005-2008",
+                "Denomination": "50.000 lira",
+                "Year": "2001-2004",
                 "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded",
+                "Edge type": "Smooth",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "5.3",
-                "Diameter (mm)": "21.5",
+                "Weight (g)": "3.2",
+                "Diameter (mm)": "17.5",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "11060": {
+                "Number": "KM# 1106",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2001 - 2004)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100.000 lira",
+                "Year": "2001-2004",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4.6",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "11061": {
+                "Number": "KM# 1106",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2001 - 2004)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100.000 lira",
+                "Year": "2001-2004",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4.6",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "11370": {
+                "Number": "KM# 1137",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2001 - 2004)",
+                "Coin type": "Circulation coins",
+                "Denomination": "250.000 lira",
+                "Year": "2002-2004",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded with lettering",
+                "Edge description": "'TC TC TC TC TC TC'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.42",
+                "Diameter (mm)": "23.4",
                 "Thickness (mm)": "1.9"
             }
         },
         {
-            "1168": {
-                "Number": "KM# 1168",
+            "11371": {
+                "Number": "KM# 1137",
                 "Country": "Turkey",
-                "Period": "Republic of Turkey (2005 - 2023)",
+                "Period": "Republic of Turkey (2001 - 2004)",
                 "Coin type": "Circulation coins",
-                "Denomination": "50 new kurus",
-                "Currency rate": "0.5 TRY = 0.02 USD",
-                "Year": "2005-2008",
-                "Composition": "Bi-Metallic: Copper-Nickel-Zinc center, Brass ring",
-                "Edge type": "Reeded",
+                "Denomination": "250.000 lira",
+                "Year": "2002-2004",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded with lettering",
+                "Edge description": "'TC TC TC TC TC TC'",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "7",
-                "Diameter (mm)": "23.85",
+                "Weight (g)": "6.42",
+                "Diameter (mm)": "23.4",
                 "Thickness (mm)": "1.9"
             }
         },
         {
-            "1169": {
-                "Number": "KM# 1169",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2005 - 2023)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 new lira",
-                "Currency rate": "1 TRY = 0.03 USD",
-                "Year": "2005-2008",
-                "Composition": "Bi-Metallic: Brass center, Copper-Nickel-Zinc ring",
-                "Edge type": "Reeded and smooth section",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "8.5",
-                "Diameter (mm)": "26.15",
-                "Thickness (mm)": "1.95"
-            }
-        },
-        {
-            "1164": {
+            "11640": {
                 "Number": "KM# 1164",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
@@ -392,7 +439,25 @@
             }
         },
         {
-            "1165": {
+            "11641": {
+                "Number": "KM# 1164",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 new kurus",
+                "Currency rate": "0.01 TRY = 0.0003 USD",
+                "Year": "2005-2008",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.7",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.65"
+            }
+        },
+        {
+            "11650": {
                 "Number": "KM# 1165",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
@@ -410,7 +475,241 @@
             }
         },
         {
-            "1241": {
+            "11651": {
+                "Number": "KM# 1165",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 new kurus",
+                "Currency rate": "0.05 TRY = 0.002 USD",
+                "Year": "2005-2008",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.95",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.7"
+            }
+        },
+        {
+            "11660": {
+                "Number": "KM# 1166",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 new kurus",
+                "Currency rate": "0.1 TRY = 0.003 USD",
+                "Year": "2005-2008",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3.85",
+                "Diameter (mm)": "19.25",
+                "Thickness (mm)": "1.7"
+            }
+        },
+        {
+            "11661": {
+                "Number": "KM# 1166",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 new kurus",
+                "Currency rate": "0.1 TRY = 0.003 USD",
+                "Year": "2005-2008",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3.85",
+                "Diameter (mm)": "19.25",
+                "Thickness (mm)": "1.7"
+            }
+        },
+        {
+            "11670": {
+                "Number": "KM# 1167",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 new kurus",
+                "Currency rate": "0.25 TRY = 0.008 USD",
+                "Year": "2005-2008",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "5.3",
+                "Diameter (mm)": "21.5",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "11671": {
+                "Number": "KM# 1167",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 new kurus",
+                "Currency rate": "0.25 TRY = 0.008 USD",
+                "Year": "2005-2008",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "5.3",
+                "Diameter (mm)": "21.5",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "11680": {
+                "Number": "KM# 1168",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 new kurus",
+                "Currency rate": "0.5 TRY = 0.02 USD",
+                "Year": "2005-2008",
+                "Composition": "Bi-Metallic: Copper-Nickel-Zinc center, Brass ring",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7",
+                "Diameter (mm)": "23.85",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "11681": {
+                "Number": "KM# 1168",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 new kurus",
+                "Currency rate": "0.5 TRY = 0.02 USD",
+                "Year": "2005-2008",
+                "Composition": "Bi-Metallic: Copper-Nickel-Zinc center, Brass ring",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7",
+                "Diameter (mm)": "23.85",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "11690": {
+                "Number": "KM# 1169",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 new lira",
+                "Currency rate": "1 TRY = 0.03 USD",
+                "Year": "2005-2008",
+                "Composition": "Bi-Metallic: Brass center, Copper-Nickel-Zinc ring",
+                "Edge type": "Reeded and smooth section",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "8.5",
+                "Diameter (mm)": "26.15",
+                "Thickness (mm)": "1.95"
+            }
+        },
+        {
+            "11691": {
+                "Number": "KM# 1169",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 new lira",
+                "Currency rate": "1 TRY = 0.03 USD",
+                "Year": "2005-2008",
+                "Composition": "Bi-Metallic: Brass center, Copper-Nickel-Zinc ring",
+                "Edge type": "Reeded and smooth section",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "8.5",
+                "Diameter (mm)": "26.15",
+                "Thickness (mm)": "1.95"
+            }
+        },
+        {
+            "12390": {
+                "Number": "KM# 1239",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Currency rate": "0.01 TRY = 0.0003 USD",
+                "Year": "2009-2023",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.2",
+                "Diameter (mm)": "16.5",
+                "Thickness (mm)": "1.35"
+            }
+        },
+        {
+            "12391": {
+                "Number": "KM# 1239",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Currency rate": "0.01 TRY = 0.0003 USD",
+                "Year": "2009-2023",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.2",
+                "Diameter (mm)": "16.5",
+                "Thickness (mm)": "1.35"
+            }
+        },
+        {
+            "12400": {
+                "Number": "KM# 1240",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Currency rate": "0.05 TRY = 0.002 USD",
+                "Year": "2009-2022",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.9",
+                "Diameter (mm)": "17.5",
+                "Thickness (mm)": "1.65"
+            }
+        },
+        {
+            "12401": {
+                "Number": "KM# 1240",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Currency rate": "0.05 TRY = 0.002 USD",
+                "Year": "2009-2022",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.9",
+                "Diameter (mm)": "17.5",
+                "Thickness (mm)": "1.65"
+            }
+        },
+        {
+            "12410": {
                 "Number": "KM# 1241",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
@@ -428,7 +727,25 @@
             }
         },
         {
-            "1242": {
+            "12411": {
+                "Number": "KM# 1241",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Currency rate": "0.1 TRY = 0.003 USD",
+                "Year": "2009-2022",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3.15",
+                "Diameter (mm)": "18.5",
+                "Thickness (mm)": "1.55"
+            }
+        },
+        {
+            "12420": {
                 "Number": "KM# 1242",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
@@ -446,7 +763,25 @@
             }
         },
         {
-            "1243": {
+            "12421": {
+                "Number": "KM# 1242",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Currency rate": "0.25 TRY = 0.008 USD",
+                "Year": "2009-2022",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "20.5",
+                "Thickness (mm)": "1.65"
+            }
+        },
+        {
+            "12430": {
                 "Number": "KM# 1243",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
@@ -464,7 +799,25 @@
             }
         },
         {
-            "1244": {
+            "12431": {
+                "Number": "KM# 1243",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (2005 - 2023)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Currency rate": "0.5 TRY = 0.02 USD",
+                "Year": "2009-2022",
+                "Composition": "Bi-Metallic: Brass center, Copper-Nickel-Zinc ring",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.8",
+                "Diameter (mm)": "23.85",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "12440": {
                 "Number": "KM# 1244",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
@@ -483,1002 +836,314 @@
             }
         },
         {
-            "1239": {
-                "Number": "KM# 1239",
+            "12441": {
+                "Number": "KM# 1244",
                 "Country": "Turkey",
                 "Period": "Republic of Turkey (2005 - 2023)",
                 "Coin type": "Circulation coins",
-                "Denomination": "1 kurus",
-                "Currency rate": "0.01 TRY = 0.0003 USD",
-                "Year": "2009-2023",
-                "Composition": "Brass",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2.2",
-                "Diameter (mm)": "16.5",
-                "Thickness (mm)": "1.35"
-            }
-        },
-        {
-            "1240": {
-                "Number": "KM# 1240",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2005 - 2023)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Currency rate": "0.05 TRY = 0.002 USD",
+                "Denomination": "1 lira",
+                "Currency rate": "1 TRY = 0.03 USD",
                 "Year": "2009-2022",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Smooth",
+                "Composition": "Bi-Metallic: Copper-Nickel center, Brass ring",
+                "Edge type": "Lettered",
+                "Edge description": "T.C. ~ T.C. ~ T.C.",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "2.9",
-                "Diameter (mm)": "17.5",
-                "Thickness (mm)": "1.65"
-            }
-        },
-        {
-            "1106": {
-                "Number": "KM# 1106",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2001 - 2004)",
-                "Coin type": "Circulation coins",
-                "Denomination": "100.000 lira",
-                "Year": "2001-2004",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "4.6",
-                "Diameter (mm)": "21",
-                "Thickness (mm)": "1.5"
-            }
-        },
-        {
-            "1137": {
-                "Number": "KM# 1137",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2001 - 2004)",
-                "Coin type": "Circulation coins",
-                "Denomination": "250.000 lira",
-                "Year": "2002-2004",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded with lettering",
-                "Edge description": "'TC TC TC TC TC TC'",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "6.42",
-                "Diameter (mm)": "23.4",
+                "Weight (g)": "8.2",
+                "Diameter (mm)": "26.15",
                 "Thickness (mm)": "1.9"
             }
         },
         {
-            "1027": {
-                "Number": "KM# 1027, KM#1027.1",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2001 - 2004)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10.000 lira",
-                "Year": "1997-2001",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded with lettering",
-                "Edge description": "'T.C. T.C. T.C. T.C. T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "6.75",
-                "Diameter (mm)": "23.5",
-                "Thickness (mm)": "2.1"
-            }
-        },
-        {
-            "1104": {
-                "Number": "KM# 1104",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2001 - 2004)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25.000 lira",
-                "Year": "2001-2004",
-                "Composition": "Copper-Zinc",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2.7",
-                "Diameter (mm)": "17",
-                "Thickness (mm)": "1.5"
-            }
-        },
-        {
-            "1105": {
-                "Number": "KM# 1105",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (2001 - 2004)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50.000 lira",
-                "Year": "2001-2004",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "3.2",
-                "Diameter (mm)": "17.5",
-                "Thickness (mm)": "1.5"
-            }
-        },
-        {
-            "1078": {
-                "Number": "KM# 1078",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "100.000 lira",
-                "Year": "1999-2000",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "7.6",
-                "Diameter (mm)": "25",
-                "Thickness (mm)": "2"
-            }
-        },
-        {
-            "1029": {
-                "Number": "KM# 1029.1, KM# 1029.2",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5.000 lira",
-                "Year": "1995-1998",
-                "Composition": "Brass",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "5.98",
-                "Diameter (mm)": "19.48",
-                "Thickness (mm)": "2.2"
-            }
-        },
-        {
-            "1041": {
-                "Number": "KM# 1041",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25.000 lira",
-                "Year": "1995-2000",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Lettering and ornaments",
-                "Edge description": "'T.C. T.C. T.C. T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "11.1",
-                "Diameter (mm)": "26.5",
-                "Thickness (mm)": "2.68"
-            }
-        },
-        {
-            "1056": {
-                "Number": "KM# 1056",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50.000 lira",
-                "Year": "1996-2000",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Lettering and ornaments",
-                "Edge description": "'T.C. T.C. T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "11.6",
-                "Diameter (mm)": "28",
-                "Thickness (mm)": "2.3"
-            }
-        },
-        {
-            "1028": {
-                "Number": "KM# 1028",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1.000 lira",
-                "Year": "1995-1998",
-                "Composition": "Bronze plated Brass",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "3.07",
-                "Diameter (mm)": "16.93",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "997": {
-                "Number": "KM# 997",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1.000 lira",
-                "Year": "1990-1994",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "8.1",
-                "Diameter (mm)": "25.8",
-                "Thickness (mm)": "2.2"
-            }
-        },
-        {
-            "1025": {
-                "Number": "KM# 1025",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5.000 lira",
-                "Year": "1992-1994",
-                "Composition": "Nickel-Brass",
-                "Edge type": "Lettered",
-                "Edge description": "'TÜRKIYE CUMHURIYETI'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "10.3",
-                "Diameter (mm)": "28.5",
-                "Thickness (mm)": "2.04"
-            }
-        },
-        {
-            "988": {
-                "Number": "KM# 988",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "100 lira",
-                "Year": "1988-1994",
-                "Composition": "Aluminium-Bronze",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "4.15",
-                "Diameter (mm)": "20.8",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "1015": {
-                "Number": "KM# 1015",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "2.500 lira",
-                "Year": "1991-1998",
-                "Composition": "Nickel-Bronze",
-                "Edge type": "Lettered",
-                "Edge description": "'TÜRKIYE CUMHURIYETI'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "9.3",
-                "Diameter (mm)": "27.25",
-                "Thickness (mm)": "2.2"
-            }
-        },
-        {
-            "989": {
-                "Number": "KM# 989",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "500 lira",
-                "Year": "1988-1998",
-                "Composition": "Aluminium-Bronze",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "6.15",
-                "Diameter (mm)": "24",
-                "Thickness (mm)": "1.85"
-            }
-        },
-        {
-            "987": {
-                "Number": "KM# 987",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50 lira",
-                "Year": "1988-1994",
-                "Composition": "Aluminium-Bronze",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "3.3",
-                "Diameter (mm)": "18.7",
-                "Thickness (mm)": "1.4"
-            }
-        },
-        {
-            "964": {
-                "Number": "KM# 964",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 lira",
-                "Year": "1984-1989",
-                "Composition": "Aluminium",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.4",
-                "Diameter (mm)": "25",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "975": {
-                "Number": "KM# 975",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25 lira",
-                "Year": "1985-1989",
-                "Composition": "Aluminium",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.85",
-                "Diameter (mm)": "27",
-                "Thickness (mm)": "1.3"
-            }
-        },
-        {
-            "967": {
-                "Number": "KM# 967",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "100 lira",
-                "Year": "1984-1988",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "11.05",
-                "Diameter (mm)": "29.65",
-                "Thickness (mm)": "2.21"
-            }
-        },
-        {
-            "963": {
-                "Number": "KM# 963",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 lira",
-                "Year": "1984-1989",
-                "Composition": "Aluminium",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "1.67",
-                "Diameter (mm)": "21",
-                "Thickness (mm)": "2"
-            }
-        },
-        {
-            "966": {
-                "Number": "KM# 966",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50 lira",
-                "Year": "1984-1987",
-                "Composition": "Copper-Zinc-Nickel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "9",
-                "Diameter (mm)": "26.8",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "965": {
-                "Number": "KM# 965",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "20 lira",
-                "Year": "1984",
-                "Composition": "Copper-Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "7.2",
-                "Diameter (mm)": "22.9",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "943": {
-                "Number": "KM# 943",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 lira",
-                "Year": "1981",
-                "Composition": "Aluminium",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "1.1",
-                "Diameter (mm)": "17",
-                "Thickness (mm)": "2"
-            }
-        },
-        {
-            "944": {
-                "Number": "KM# 944",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 lira",
-                "Year": "1981",
-                "Composition": "Aluminium",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "1.8",
-                "Diameter (mm)": "21",
-                "Thickness (mm)": "2.4"
-            }
-        },
-        {
-            "945": {
-                "Number": "KM# 945",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1981 - 2000)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 lira",
-                "Year": "1981",
-                "Composition": "Aluminium",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.4",
-                "Diameter (mm)": "25",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "893": {
-                "Number": "KM# 893.1, KM# 893.2",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "2½ lira",
-                "Year": "1960-1968",
-                "Composition": "Stainless Steel",
-                "Edge type": "Lettering and ornaments",
-                "Edge description": "'T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "12",
-                "Diameter (mm)": "30",
-                "Thickness (mm)": "2.5"
-            }
-        },
-        {
-            "895": {
-                "Number": "KM# 895, KM# 895a, KM# 895b",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 kurus",
-                "Year": "1961-1963",
-                "Composition": "Brass",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "1",
-                "Diameter (mm)": "14.04",
-                "Thickness (mm)": "0.78"
-            }
-        },
-        {
-            "890": {
-                "Number": "KM# 890.1, KM# 890.2, KM# 890.3, KM# 890.a",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Year": "1958-1968",
-                "Composition": "Bronze",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.5",
-                "Diameter (mm)": "17",
-                "Thickness (mm)": "1.26"
-            }
-        },
-        {
-            "891": {
-                "Number": "KM# 891.1, KM# 891.2, KM# 891.3, KM# 891a",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 kurus",
-                "Year": "1958-1968",
-                "Composition": "Bronze",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "4",
-                "Diameter (mm)": "21.3",
-                "Thickness (mm)": "1.26"
-            }
-        },
-        {
-            "884": {
-                "Number": "KM# 884",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Collector coins",
-                "Denomination": "1/2 kurus",
-                "Year": "1948",
-                "Composition": "Brass",
-                "Edge type": "Smooth",
-                "Edge description": "TÜRKİYE CUMHURİYETİ",
-                "Shape": "Round with a hole",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "1.7",
-                "Diameter (mm)": "16",
-                "Thickness (mm)": "1.15"
-            }
-        },
-        {
-            "905": {
-                "Number": "KM# 905",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 lira",
-                "Year": "1974-1979",
-                "Composition": "Stainless Steel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "11.1",
-                "Diameter (mm)": "32.5",
-                "Thickness (mm)": "1.75"
-            }
-        },
-        {
-            "892": {
-                "Number": "KM# 892.1, KM# 892.2, KM# 892.3",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25 kurus",
-                "Year": "1959",
-                "Composition": "Stainless Steel",
-                "Edge type": "Lettering and ornaments",
-                "Edge description": "'T.C'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "5",
-                "Diameter (mm)": "22.6",
-                "Thickness (mm)": "1.57"
-            }
-        },
-        {
-            "887": {
-                "Number": "KM# 887",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Year": "1949-1957",
-                "Composition": "Brass",
-                "Edge type": "Lettered",
-                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.2",
-                "Diameter (mm)": "16.3",
-                "Thickness (mm)": "1.29"
-            }
-        },
-        {
-            "889": {
-                "Number": "KM# 889, KM# 889a.1, KM# 889a.2",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 lira",
-                "Year": "1957",
-                "Composition": "Copper-Nickel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "7.5",
-                "Diameter (mm)": "27",
-                "Thickness (mm)": "1.8"
-            }
-        },
-        {
-            "888": {
-                "Number": "KM# 888",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 kurus",
-                "Year": "1949-1956",
-                "Composition": "Brass",
-                "Edge type": "Lettered",
-                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.6",
-                "Diameter (mm)": "18",
-                "Thickness (mm)": "1.45"
-            }
-        },
-        {
-            "886": {
-                "Number": "KM# 886",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25 kurus",
-                "Year": "1948-1956",
-                "Composition": "Brass",
-                "Edge type": "Lettered",
-                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "4.25",
-                "Diameter (mm)": "22.5",
-                "Thickness (mm)": "1.25"
-            }
-        },
-        {
-            "881": {
-                "Number": "KM# 881",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 kurus",
-                "Year": "1947-1951",
-                "Composition": "Brass",
-                "Edge type": "Smooth",
-                "Shape": "Round with a hole",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "2.25",
-                "Diameter (mm)": "18.2",
-                "Thickness (mm)": "1.3"
-            }
-        },
-        {
-            "885": {
-                "Number": "KM# 885",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "2½ kurus",
-                "Year": "1948-1951",
-                "Composition": "Brass",
-                "Edge type": "Smooth",
-                "Shape": "Round with a hole",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "3.2",
-                "Diameter (mm)": "21",
-                "Thickness (mm)": "1"
-            }
-        },
-        {
-            "882": {
-                "Number": "KM# 882",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50 kurus",
-                "Year": "1947-1948",
-                "Composition": "Silver 0.600",
-                "Edge type": "Reeded with lettering",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "4",
-                "Diameter (mm)": "20",
-                "Thickness (mm)": "1.3"
-            }
-        },
-        {
-            "883": {
-                "Number": "KM# 883",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "1 lira",
-                "Year": "1947-1948",
-                "Composition": "Silver 0.600",
-                "Edge type": "Lettered",
-                "Edge description": "TÜRKİYE CUMHURİYETİ",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "7.5",
-                "Diameter (mm)": "25",
-                "Thickness (mm)": "1.63"
-            }
-        },
-        {
-            "899": {
-                "Number": "KM# 899",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "50 kurus",
-                "Year": "1971-1979",
-                "Composition": "Stainless Steel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "6.1",
-                "Diameter (mm)": "25",
-                "Thickness (mm)": "1.55"
-            }
-        },
-        {
-            "880": {
-                "Number": "KM# 880",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1934 - 1980)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25 kurus",
-                "Year": "1944-1946",
-                "Composition": "Nickel-Bronze",
-                "Edge type": "Lettered",
-                "Edge description": "'T.C. T.C. T.C.'",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "3",
-                "Diameter (mm)": "19",
-                "Thickness (mm)": "1.5"
-            }
-        },
-        {
-            "830": {
-                "Number": "KM# 830",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1922 - 1933)",
-                "Coin type": "Circulation coins",
-                "Denomination": "100 para",
-                "Year": "1924-1925",
-                "Composition": "Aluminium-Bronze",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2",
-                "Diameter (mm)": "19",
-                "Thickness (mm)": "1.07"
-            }
-        },
-        {
-            "831": {
-                "Number": "KM# 831",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1922 - 1933)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Year": "1924-1925",
-                "Composition": "Aluminium-Bronze",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "3.92",
-                "Diameter (mm)": "22.5",
-                "Thickness (mm)": "1.4"
-            }
-        },
-        {
-            "832": {
-                "Number": "KM# 832",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1922 - 1933)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 kurus",
-                "Year": "1924-1925",
-                "Composition": "Aluminium-Bronze",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "7.6",
-                "Diameter (mm)": "27.3",
-                "Thickness (mm)": "1.9"
-            }
-        },
-        {
-            "833": {
-                "Number": "KM# 833",
-                "Country": "Turkey",
-                "Period": "Republic of Turkey (1922 - 1933)",
-                "Coin type": "Circulation coins",
-                "Denomination": "25 kurus",
-                "Year": "AH 1341 (1925) - ١٣٤١",
-                "Subject": "Nickel /gray color/",
-                "Composition": "Nickel",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Coin (180°)",
-                "Weight (g)": "10",
-                "Diameter (mm)": "30",
-                "Thickness (mm)": "2"
-            }
-        },
-        {
-            "749": {
-                "Number": "KM# 749",
+            "5960": {
+                "Number": "KM# 596",
                 "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
-                "Coin type": "Circulation coins",
-                "Denomination": "2 kurus",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2.41",
-                "Diameter (mm)": "18.1",
-                "Thickness (mm)": "1.1"
-            }
-        },
-        {
-            "750": {
-                "Number": "KM# 750",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
-                "Composition": "Silver 0.830",
-                "Edge type": "Reeded",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "6.01",
-                "Diameter (mm)": "24",
-                "Thickness (mm)": "Unknown (help us to know)"
-            }
-        },
-        {
-            "759": {
-                "Number": "KM# 759",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
-                "Coin type": "Circulation coins",
-                "Denomination": "5 para",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
-                "Composition": "Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "1.8",
-                "Diameter (mm)": "16.15",
-                "Thickness (mm)": "1.1"
-            }
-        },
-        {
-            "760": {
-                "Number": "KM# 760",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
-                "Coin type": "Circulation coins",
-                "Denomination": "10 para",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
-                "Composition": "Nickel",
-                "Edge type": "Smooth",
-                "Shape": "Round",
-                "Alignment": "Medal (0°)",
-                "Weight (g)": "2.6",
-                "Diameter (mm)": "18.9",
-                "Thickness (mm)": "1.3"
-            }
-        },
-        {
-            "761": {
-                "Number": "KM# 761",
-                "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Period": "Sultan Mahmud II (1808 - 1838)",
                 "Coin type": "Circulation coins",
                 "Denomination": "20 para",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
-                "Composition": "Nickel",
-                "Edge type": "Smooth",
+                "Year": "AH 1223 (1808) - ١٢٢٣",
+                "Ruler": "Mahmud II",
+                "Composition": "Silver 0.170",
+                "Edge type": "Reeded",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "4.1",
+                "Weight (g)": "1.35",
                 "Diameter (mm)": "21",
+                "Thickness (mm)": "0.6"
+            }
+        },
+        {
+            "5961": {
+                "Number": "KM# 596",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mahmud II (1808 - 1838)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 para",
+                "Year": "AH 1223 (1808) - ١٢٢٣",
+                "Ruler": "Mahmud II",
+                "Composition": "Silver 0.170",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.35",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "0.6"
+            }
+        },
+        {
+            "6030": {
+                "Number": "KM# 603",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mahmud II (1808 - 1838)",
+                "Coin type": "Circulation coins",
+                "Denomination": "6 kurus",
+                "Year": "AH 1223 (1808) - ١٢٢٣",
+                "Ruler": "Mahmud II",
+                "Composition": "Silver 0.435",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "38",
                 "Thickness (mm)": "1.5"
             }
         },
         {
-            "779": {
-                "Number": "KM# 779",
+            "6031": {
+                "Number": "KM# 603",
                 "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Period": "Sultan Mahmud II (1808 - 1838)",
                 "Coin type": "Circulation coins",
-                "Denomination": "40 para",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
-                "Composition": "Copper-Nickel",
+                "Denomination": "6 kurus",
+                "Year": "AH 1223 (1808) - ١٢٢٣",
+                "Ruler": "Mahmud II",
+                "Composition": "Silver 0.435",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "38",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "6660": {
+                "Number": "KM# 666",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 para",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Copper",
                 "Edge type": "Smooth",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "6.1",
-                "Diameter (mm)": "23.8",
+                "Weight (g)": "4",
+                "Diameter (mm)": "21.2",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "6661": {
+                "Number": "KM# 666",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 para",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Copper",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "21.2",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "6670": {
+                "Number": "KM# 667",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Copper",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7.5",
+                "Diameter (mm)": "27.3",
                 "Thickness (mm)": "1.6"
             }
         },
         {
-            "748": {
-                "Number": "KM# 748",
+            "6671": {
+                "Number": "KM# 667",
                 "Country": "Ottoman Empire",
-                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Copper",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7.5",
+                "Diameter (mm)": "27.3",
+                "Thickness (mm)": "1.6"
+            }
+        },
+        {
+            "6700": {
+                "Number": "KM# 670",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "40 para",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Copper",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "21.2",
+                "Diameter (mm)": "37",
+                "Thickness (mm)": "2.32"
+            }
+        },
+        {
+            "6701": {
+                "Number": "KM# 670",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "40 para",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Copper",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "21.2",
+                "Diameter (mm)": "37",
+                "Thickness (mm)": "2.32"
+            }
+        },
+        {
+            "6710": {
+                "Number": "KM# 671",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
                 "Coin type": "Circulation coins",
                 "Denomination": "1 kurus",
-                "Year": "AH 1327 (1909) - ١٣٢٧",
-                "Ruler": "Mehmed V",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
                 "Composition": "Silver 0.830",
                 "Edge type": "Reeded",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
                 "Weight (g)": "1.2",
-                "Diameter (mm)": "14.6",
-                "Thickness (mm)": "1"
+                "Diameter (mm)": "14.5",
+                "Thickness (mm)": "Unknown (help us to know)"
             }
         },
         {
-            "737": {
-                "Number": "KM# 737",
+            "6711": {
+                "Number": "KM# 671",
                 "Country": "Ottoman Empire",
-                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
                 "Coin type": "Circulation coins",
-                "Denomination": "5 kurus",
-                "Year": "AH 1293 (1876) - ١٢٩٣",
-                "Ruler": "Abdul Hamid II",
+                "Denomination": "1 kurus",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
                 "Composition": "Silver 0.830",
                 "Edge type": "Reeded",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "6.013",
-                "Diameter (mm)": "23.5",
-                "Thickness (mm)": "1.55"
+                "Weight (g)": "1.2",
+                "Diameter (mm)": "14.5",
+                "Thickness (mm)": "Unknown (help us to know)"
             }
         },
         {
-            "744": {
-                "Number": "KM# 744",
+            "6750": {
+                "Number": "KM# 675",
                 "Country": "Ottoman Empire",
-                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
                 "Coin type": "Circulation coins",
-                "Denomination": "10 para",
-                "Year": "AH 1293 (1876) - ١٢٩٣",
-                "Ruler": "Abdul Hamid II",
-                "Composition": "Silver 0.100",
-                "Edge type": "Smooth",
+                "Denomination": "20 kurus",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "2.005",
-                "Diameter (mm)": "18",
-                "Thickness (mm)": "1"
+                "Weight (g)": "24.06",
+                "Diameter (mm)": "36.8",
+                "Thickness (mm)": "2.3"
             }
         },
         {
-            "735": {
+            "6751": {
+                "Number": "KM# 675",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülmecid I (1839 - 1861)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 kurus",
+                "Year": "AH 1255 (1839) - ١٢٥٥",
+                "Ruler": "Abdülmecid I",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "24.06",
+                "Diameter (mm)": "36.8",
+                "Thickness (mm)": "2.3"
+            }
+        },
+        {
+            "6930": {
+                "Number": "KM# 693",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülaziz (1861 - 1875)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 kurus",
+                "Year": "AH 1277 (1861) - ١٢٧٧",
+                "Ruler": "Abdülaziz",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "24.06",
+                "Diameter (mm)": "37",
+                "Thickness (mm)": "2.25"
+            }
+        },
+        {
+            "6931": {
+                "Number": "KM# 693",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdülaziz (1861 - 1875)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 kurus",
+                "Year": "AH 1277 (1861) - ١٢٧٧",
+                "Ruler": "Abdülaziz",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "24.06",
+                "Diameter (mm)": "37",
+                "Thickness (mm)": "2.25"
+            }
+        },
+        {
+            "7350": {
                 "Number": "KM# 735",
                 "Country": "Ottoman Empire",
                 "Period": "Sultan Abdul Hamid II (1876 - 1908)",
@@ -1496,7 +1161,25 @@
             }
         },
         {
-            "736": {
+            "7351": {
+                "Number": "KM# 735",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "AH 1293 (1876) - ١٢٩٣",
+                "Ruler": "Abdul Hamid II",
+                "Composition": "Silver 0.830",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.203",
+                "Diameter (mm)": "15",
+                "Thickness (mm)": "0.74"
+            }
+        },
+        {
+            "7360": {
                 "Number": "KM# 736",
                 "Country": "Ottoman Empire",
                 "Period": "Sultan Abdul Hamid II (1876 - 1908)",
@@ -1514,21 +1197,1905 @@
             }
         },
         {
-            "693": {
-                "Number": "KM# 693",
+            "7361": {
+                "Number": "KM# 736",
                 "Country": "Ottoman Empire",
-                "Period": "Sultan Abdülaziz (1861 - 1875)",
+                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
                 "Coin type": "Circulation coins",
-                "Denomination": "20 kurus",
-                "Year": "AH 1277 (1861) - ١٢٧٧",
-                "Ruler": "Abdülaziz",
+                "Denomination": "2 kurus",
+                "Year": "AH 1293 (1876) - ١٢٩٣",
+                "Ruler": "Abdul Hamid II",
                 "Composition": "Silver 0.830",
                 "Edge type": "Reeded",
                 "Shape": "Round",
                 "Alignment": "Medal (0°)",
-                "Weight (g)": "24.06",
-                "Diameter (mm)": "37",
-                "Thickness (mm)": "2.25"
+                "Weight (g)": "2.406",
+                "Diameter (mm)": "18",
+                "Thickness (mm)": "1.15"
+            }
+        },
+        {
+            "7370": {
+                "Number": "KM# 737",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "AH 1293 (1876) - ١٢٩٣",
+                "Ruler": "Abdul Hamid II",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.013",
+                "Diameter (mm)": "23.5",
+                "Thickness (mm)": "1.55"
+            }
+        },
+        {
+            "7371": {
+                "Number": "KM# 737",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "AH 1293 (1876) - ١٢٩٣",
+                "Ruler": "Abdul Hamid II",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.013",
+                "Diameter (mm)": "23.5",
+                "Thickness (mm)": "1.55"
+            }
+        },
+        {
+            "7440": {
+                "Number": "KM# 744",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "AH 1293 (1876) - ١٢٩٣",
+                "Ruler": "Abdul Hamid II",
+                "Composition": "Silver 0.100",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.005",
+                "Diameter (mm)": "18",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "7441": {
+                "Number": "KM# 744",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Abdul Hamid II (1876 - 1908)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "AH 1293 (1876) - ١٢٩٣",
+                "Ruler": "Abdul Hamid II",
+                "Composition": "Silver 0.100",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.005",
+                "Diameter (mm)": "18",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "7480": {
+                "Number": "KM# 748",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.2",
+                "Diameter (mm)": "14.6",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "7481": {
+                "Number": "KM# 748",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.2",
+                "Diameter (mm)": "14.6",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "7490": {
+                "Number": "KM# 749",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "2 kurus",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.41",
+                "Diameter (mm)": "18.1",
+                "Thickness (mm)": "1.1"
+            }
+        },
+        {
+            "7491": {
+                "Number": "KM# 749",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "2 kurus",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.41",
+                "Diameter (mm)": "18.1",
+                "Thickness (mm)": "1.1"
+            }
+        },
+        {
+            "7500": {
+                "Number": "KM# 750",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.01",
+                "Diameter (mm)": "24",
+                "Thickness (mm)": "Unknown (help us to know)"
+            }
+        },
+        {
+            "7501": {
+                "Number": "KM# 750",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.01",
+                "Diameter (mm)": "24",
+                "Thickness (mm)": "Unknown (help us to know)"
+            }
+        },
+        {
+            "7590": {
+                "Number": "KM# 759",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.8",
+                "Diameter (mm)": "16.15",
+                "Thickness (mm)": "1.1"
+            }
+        },
+        {
+            "7591": {
+                "Number": "KM# 759",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.8",
+                "Diameter (mm)": "16.15",
+                "Thickness (mm)": "1.1"
+            }
+        },
+        {
+            "7600": {
+                "Number": "KM# 760",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.6",
+                "Diameter (mm)": "18.9",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "7601": {
+                "Number": "KM# 760",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.6",
+                "Diameter (mm)": "18.9",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "7610": {
+                "Number": "KM# 761",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4.1",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "7611": {
+                "Number": "KM# 761",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4.1",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "7790": {
+                "Number": "KM# 779",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "40 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.1",
+                "Diameter (mm)": "23.8",
+                "Thickness (mm)": "1.6"
+            }
+        },
+        {
+            "7791": {
+                "Number": "KM# 779",
+                "Country": "Ottoman Empire",
+                "Period": "Sultan Mehmed V (1909 - 1918)",
+                "Coin type": "Circulation coins",
+                "Denomination": "40 para",
+                "Year": "AH 1327 (1909) - ١٣٢٧",
+                "Ruler": "Mehmed V",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6.1",
+                "Diameter (mm)": "23.8",
+                "Thickness (mm)": "1.6"
+            }
+        },
+        {
+            "8300": {
+                "Number": "KM# 830",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 para",
+                "Year": "1924-1925",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2",
+                "Diameter (mm)": "19",
+                "Thickness (mm)": "1.07"
+            }
+        },
+        {
+            "8301": {
+                "Number": "KM# 830",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 para",
+                "Year": "1924-1925",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2",
+                "Diameter (mm)": "19",
+                "Thickness (mm)": "1.07"
+            }
+        },
+        {
+            "8310": {
+                "Number": "KM# 831",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1924-1925",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3.92",
+                "Diameter (mm)": "22.5",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "8311": {
+                "Number": "KM# 831",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1924-1925",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3.92",
+                "Diameter (mm)": "22.5",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "8320": {
+                "Number": "KM# 832",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1924-1925",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7.6",
+                "Diameter (mm)": "27.3",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "8321": {
+                "Number": "KM# 832",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1924-1925",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7.6",
+                "Diameter (mm)": "27.3",
+                "Thickness (mm)": "1.9"
+            }
+        },
+        {
+            "8330": {
+                "Number": "KM# 833",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "AH 1341 (1925) - ١٣٤١",
+                "Subject": "Nickel /gray color/",
+                "Composition": "Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "10",
+                "Diameter (mm)": "30",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "8331": {
+                "Number": "KM# 833",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1922 - 1933)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "AH 1341 (1925) - ١٣٤١",
+                "Subject": "Nickel /gray color/",
+                "Composition": "Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "10",
+                "Diameter (mm)": "30",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "8600": {
+                "Number": "KM# 860",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 kurus",
+                "Year": "1934",
+                "Composition": "Silver 0.830",
+                "Edge type": "Lettered",
+                "Edge description": "'* T. C. *'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "29",
+                "Thickness (mm)": "1.95"
+            }
+        },
+        {
+            "8601": {
+                "Number": "KM# 860",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 kurus",
+                "Year": "1934",
+                "Composition": "Silver 0.830",
+                "Edge type": "Lettered",
+                "Edge description": "'* T. C. *'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "29",
+                "Thickness (mm)": "1.95"
+            }
+        },
+        {
+            "8610": {
+                "Number": "KM# 861",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1935-1937",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.5",
+                "Diameter (mm)": "18.5",
+                "Thickness (mm)": "1.13"
+            }
+        },
+        {
+            "8611": {
+                "Number": "KM# 861",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1935-1937",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.5",
+                "Diameter (mm)": "18.5",
+                "Thickness (mm)": "1.13"
+            }
+        },
+        {
+            "8620": {
+                "Number": "KM# 862",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1935-1943",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded and smooth section",
+                "Edge description": "'T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "21.5",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "8621": {
+                "Number": "KM# 862",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1935-1943",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded and smooth section",
+                "Edge description": "'T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "21.5",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "8630": {
+                "Number": "KM# 863",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1935-1940",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded and smooth section",
+                "Edge description": "'T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "5.8",
+                "Diameter (mm)": "25.5",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "8631": {
+                "Number": "KM# 863",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1935-1940",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded and smooth section",
+                "Edge description": "'T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "5.8",
+                "Diameter (mm)": "25.5",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "8640": {
+                "Number": "KM# 864",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1935-1937",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded with lettering",
+                "Edge description": "'T.C. * T.C. * T.C. *'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3",
+                "Diameter (mm)": "19",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "8641": {
+                "Number": "KM# 864",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1935-1937",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded with lettering",
+                "Edge description": "'T.C. * T.C. * T.C. *'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3",
+                "Diameter (mm)": "19",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "8650": {
+                "Number": "KM# 865",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Year": "1935-1937",
+                "Composition": "Silver 0.830",
+                "Edge type": "Lettered",
+                "Edge description": "'IIIII * T. C.* IIIII'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6",
+                "Diameter (mm)": "24",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "8651": {
+                "Number": "KM# 865",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Year": "1935-1937",
+                "Composition": "Silver 0.830",
+                "Edge type": "Lettered",
+                "Edge description": "'IIIII * T. C.* IIIII'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "6",
+                "Diameter (mm)": "24",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "8660": {
+                "Number": "KM# 866",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1937-1939",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "29",
+                "Thickness (mm)": "1.93"
+            }
+        },
+        {
+            "8661": {
+                "Number": "KM# 866",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1937-1939",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "29",
+                "Thickness (mm)": "1.93"
+            }
+        },
+        {
+            "8670": {
+                "Number": "KM# 867",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1938-1944",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Scallop",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.4",
+                "Diameter (mm)": "18.5",
+                "Thickness (mm)": "1.18"
+            }
+        },
+        {
+            "8671": {
+                "Number": "KM# 867",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1938-1944",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Scallop",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2.4",
+                "Diameter (mm)": "18.5",
+                "Thickness (mm)": "1.18"
+            }
+        },
+        {
+            "8680": {
+                "Number": "KM# 868",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "1940-1942",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.25"
+            }
+        },
+        {
+            "8681": {
+                "Number": "KM# 868",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 para",
+                "Year": "1940-1942",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "2",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.25"
+            }
+        },
+        {
+            "8690": {
+                "Number": "KM# 869",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1940-1941",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "29",
+                "Thickness (mm)": "1.93"
+            }
+        },
+        {
+            "8691": {
+                "Number": "KM# 869",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1940-1941",
+                "Composition": "Silver 0.830",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "29",
+                "Thickness (mm)": "1.93"
+            }
+        },
+        {
+            "8800": {
+                "Number": "KM# 880",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1944-1946",
+                "Composition": "Nickel-Bronze",
+                "Edge type": "Lettered",
+                "Edge description": "'T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3",
+                "Diameter (mm)": "19",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "8801": {
+                "Number": "KM# 880",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1944-1946",
+                "Composition": "Nickel-Bronze",
+                "Edge type": "Lettered",
+                "Edge description": "'T.C. T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "3",
+                "Diameter (mm)": "19",
+                "Thickness (mm)": "1.5"
+            }
+        },
+        {
+            "8810": {
+                "Number": "KM# 881",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1947-1951",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round with a hole",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.25",
+                "Diameter (mm)": "18.2",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "8811": {
+                "Number": "KM# 881",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1947-1951",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round with a hole",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.25",
+                "Diameter (mm)": "18.2",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "8820": {
+                "Number": "KM# 882",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Year": "1947-1948",
+                "Composition": "Silver 0.600",
+                "Edge type": "Reeded with lettering",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "20",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "8821": {
+                "Number": "KM# 882",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Year": "1947-1948",
+                "Composition": "Silver 0.600",
+                "Edge type": "Reeded with lettering",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "20",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "8830": {
+                "Number": "KM# 883",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1947-1948",
+                "Composition": "Silver 0.600",
+                "Edge type": "Lettered",
+                "Edge description": "TÜRKİYE CUMHURİYETİ",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7.5",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.63"
+            }
+        },
+        {
+            "8831": {
+                "Number": "KM# 883",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1947-1948",
+                "Composition": "Silver 0.600",
+                "Edge type": "Lettered",
+                "Edge description": "TÜRKİYE CUMHURİYETİ",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "7.5",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.63"
+            }
+        },
+        {
+            "8840": {
+                "Number": "KM# 884",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Collector coins",
+                "Denomination": "1/2 kurus",
+                "Year": "1948",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Edge description": "TÜRKİYE CUMHURİYETİ",
+                "Shape": "Round with a hole",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.7",
+                "Diameter (mm)": "16",
+                "Thickness (mm)": "1.15"
+            }
+        },
+        {
+            "8841": {
+                "Number": "KM# 884",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Collector coins",
+                "Denomination": "1/2 kurus",
+                "Year": "1948",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Edge description": "TÜRKİYE CUMHURİYETİ",
+                "Shape": "Round with a hole",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "1.7",
+                "Diameter (mm)": "16",
+                "Thickness (mm)": "1.15"
+            }
+        },
+        {
+            "8850": {
+                "Number": "KM# 885",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "2½ kurus",
+                "Year": "1948-1951",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round with a hole",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "3.2",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "8851": {
+                "Number": "KM# 885",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "2½ kurus",
+                "Year": "1948-1951",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round with a hole",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "3.2",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "1"
+            }
+        },
+        {
+            "8860": {
+                "Number": "KM# 886",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1948-1956",
+                "Composition": "Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4.25",
+                "Diameter (mm)": "22.5",
+                "Thickness (mm)": "1.25"
+            }
+        },
+        {
+            "8861": {
+                "Number": "KM# 886",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1948-1956",
+                "Composition": "Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4.25",
+                "Diameter (mm)": "22.5",
+                "Thickness (mm)": "1.25"
+            }
+        },
+        {
+            "8870": {
+                "Number": "KM# 887",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1949-1957",
+                "Composition": "Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.2",
+                "Diameter (mm)": "16.3",
+                "Thickness (mm)": "1.29"
+            }
+        },
+        {
+            "8871": {
+                "Number": "KM# 887",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1949-1957",
+                "Composition": "Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.2",
+                "Diameter (mm)": "16.3",
+                "Thickness (mm)": "1.29"
+            }
+        },
+        {
+            "8880": {
+                "Number": "KM# 888",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1949-1956",
+                "Composition": "Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.6",
+                "Diameter (mm)": "18",
+                "Thickness (mm)": "1.45"
+            }
+        },
+        {
+            "8881": {
+                "Number": "KM# 888",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1949-1956",
+                "Composition": "Brass",
+                "Edge type": "Lettered",
+                "Edge description": "'TÜRKİYE CUMHURİYETİ'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.6",
+                "Diameter (mm)": "18",
+                "Thickness (mm)": "1.45"
+            }
+        },
+        {
+            "8890": {
+                "Number": "KM# 889, KM# 889a.1, KM# 889a.2",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1957",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "7.5",
+                "Diameter (mm)": "27",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "8891": {
+                "Number": "KM# 889, KM# 889a.1, KM# 889a.2",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1957",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "7.5",
+                "Diameter (mm)": "27",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "8900": {
+                "Number": "KM# 890.1, KM# 890.2, KM# 890.3, KM# 890.a",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1958-1968",
+                "Composition": "Bronze",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.5",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.26"
+            }
+        },
+        {
+            "8901": {
+                "Number": "KM# 890.1, KM# 890.2, KM# 890.3, KM# 890.a",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 kurus",
+                "Year": "1958-1968",
+                "Composition": "Bronze",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.5",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "1.26"
+            }
+        },
+        {
+            "8910": {
+                "Number": "KM# 891.1, KM# 891.2, KM# 891.3, KM# 891a",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1958-1968",
+                "Composition": "Bronze",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "21.3",
+                "Thickness (mm)": "1.26"
+            }
+        },
+        {
+            "8911": {
+                "Number": "KM# 891.1, KM# 891.2, KM# 891.3, KM# 891a",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 kurus",
+                "Year": "1958-1968",
+                "Composition": "Bronze",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4",
+                "Diameter (mm)": "21.3",
+                "Thickness (mm)": "1.26"
+            }
+        },
+        {
+            "8920": {
+                "Number": "KM# 892.1, KM# 892.2, KM# 892.3",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1959",
+                "Composition": "Stainless Steel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "5",
+                "Diameter (mm)": "22.6",
+                "Thickness (mm)": "1.57"
+            }
+        },
+        {
+            "8921": {
+                "Number": "KM# 892.1, KM# 892.2, KM# 892.3",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 kurus",
+                "Year": "1959",
+                "Composition": "Stainless Steel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "5",
+                "Diameter (mm)": "22.6",
+                "Thickness (mm)": "1.57"
+            }
+        },
+        {
+            "8930": {
+                "Number": "KM# 893.1, KM# 893.2",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "2½ lira",
+                "Year": "1960-1968",
+                "Composition": "Stainless Steel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "30",
+                "Thickness (mm)": "2.5"
+            }
+        },
+        {
+            "8931": {
+                "Number": "KM# 893.1, KM# 893.2",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "2½ lira",
+                "Year": "1960-1968",
+                "Composition": "Stainless Steel",
+                "Edge type": "Lettering and ornaments",
+                "Edge description": "'T.C. T.C.'",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "12",
+                "Diameter (mm)": "30",
+                "Thickness (mm)": "2.5"
+            }
+        },
+        {
+            "8940": {
+                "Number": "KM# 894",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Commemorative coins",
+                "Denomination": "10 lira",
+                "Year": "1960",
+                "Composition": "Silver 0.830",
+                "Edge type": "    Lettering and ornaments",
+                "Edge description": "'T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "15",
+                "Diameter (mm)": "34",
+                "Thickness (mm)": "    2"
+            }
+        },
+        {
+            "8941": {
+                "Number": "KM# 894",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Commemorative coins",
+                "Denomination": "10 lira",
+                "Year": "1960",
+                "Composition": "Silver 0.830",
+                "Edge type": "    Lettering and ornaments",
+                "Edge description": "'T.C.'",
+                "Shape": "Round",
+                "Alignment": "Medal (0°)",
+                "Weight (g)": "15",
+                "Diameter (mm)": "34",
+                "Thickness (mm)": "    2"
+            }
+        },
+        {
+            "8950": {
+                "Number": "KM# 895, KM# 895a, KM# 895b",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1961-1963",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1",
+                "Diameter (mm)": "14.04",
+                "Thickness (mm)": "0.78"
+            }
+        },
+        {
+            "8951": {
+                "Number": "KM# 895, KM# 895a, KM# 895b",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 kurus",
+                "Year": "1961-1963",
+                "Composition": "Brass",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1",
+                "Diameter (mm)": "14.04",
+                "Thickness (mm)": "0.78"
+            }
+        },
+        {
+            "8990": {
+                "Number": "KM# 899",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Year": "1971-1979",
+                "Composition": "Stainless Steel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "6.1",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.55"
+            }
+        },
+        {
+            "8991": {
+                "Number": "KM# 899",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 kurus",
+                "Year": "1971-1979",
+                "Composition": "Stainless Steel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "6.1",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.55"
+            }
+        },
+        {
+            "9050": {
+                "Number": "KM# 905",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 lira",
+                "Year": "1974-1979",
+                "Composition": "Stainless Steel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.1",
+                "Diameter (mm)": "32.5",
+                "Thickness (mm)": "1.75"
+            }
+        },
+        {
+            "9051": {
+                "Number": "KM# 905",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1934 - 1980)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 lira",
+                "Year": "1974-1979",
+                "Composition": "Stainless Steel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.1",
+                "Diameter (mm)": "32.5",
+                "Thickness (mm)": "1.75"
+            }
+        },
+        {
+            "9430": {
+                "Number": "KM# 943",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1981",
+                "Composition": "Aluminium",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1.1",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "9431": {
+                "Number": "KM# 943",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1 lira",
+                "Year": "1981",
+                "Composition": "Aluminium",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1.1",
+                "Diameter (mm)": "17",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "9440": {
+                "Number": "KM# 944",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 lira",
+                "Year": "1981",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1.8",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "2.4"
+            }
+        },
+        {
+            "9441": {
+                "Number": "KM# 944",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 lira",
+                "Year": "1981",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1.8",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "2.4"
+            }
+        },
+        {
+            "9450": {
+                "Number": "KM# 945",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 lira",
+                "Year": "1981",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.4",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9451": {
+                "Number": "KM# 945",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 lira",
+                "Year": "1981",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.4",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9630": {
+                "Number": "KM# 963",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 lira",
+                "Year": "1984-1989",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1.67",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "9631": {
+                "Number": "KM# 963",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "5 lira",
+                "Year": "1984-1989",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "1.67",
+                "Diameter (mm)": "21",
+                "Thickness (mm)": "2"
+            }
+        },
+        {
+            "9640": {
+                "Number": "KM# 964",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 lira",
+                "Year": "1984-1989",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.4",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9641": {
+                "Number": "KM# 964",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "10 lira",
+                "Year": "1984-1989",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.4",
+                "Diameter (mm)": "25",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9650": {
+                "Number": "KM# 965",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 lira",
+                "Year": "1984",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "7.2",
+                "Diameter (mm)": "22.9",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9651": {
+                "Number": "KM# 965",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "20 lira",
+                "Year": "1984",
+                "Composition": "Copper-Nickel",
+                "Edge type": "Smooth",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "7.2",
+                "Diameter (mm)": "22.9",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9660": {
+                "Number": "KM# 966",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 lira",
+                "Year": "1984-1987",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "9",
+                "Diameter (mm)": "26.8",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9661": {
+                "Number": "KM# 966",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 lira",
+                "Year": "1984-1987",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "9",
+                "Diameter (mm)": "26.8",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9670": {
+                "Number": "KM# 967",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 lira",
+                "Year": "1984-1988",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.05",
+                "Diameter (mm)": "29.65",
+                "Thickness (mm)": "2.21"
+            }
+        },
+        {
+            "9671": {
+                "Number": "KM# 967",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 lira",
+                "Year": "1984-1988",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "11.05",
+                "Diameter (mm)": "29.65",
+                "Thickness (mm)": "2.21"
+            }
+        },
+        {
+            "9750": {
+                "Number": "KM# 975",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 lira",
+                "Year": "1985-1989",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.85",
+                "Diameter (mm)": "27",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "9751": {
+                "Number": "KM# 975",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "25 lira",
+                "Year": "1985-1989",
+                "Composition": "Aluminium",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "2.85",
+                "Diameter (mm)": "27",
+                "Thickness (mm)": "1.3"
+            }
+        },
+        {
+            "9870": {
+                "Number": "KM# 987",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 lira",
+                "Year": "1988-1994",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "3.3",
+                "Diameter (mm)": "18.7",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "9871": {
+                "Number": "KM# 987",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "50 lira",
+                "Year": "1988-1994",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "3.3",
+                "Diameter (mm)": "18.7",
+                "Thickness (mm)": "1.4"
+            }
+        },
+        {
+            "9880": {
+                "Number": "KM# 988",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 lira",
+                "Year": "1988-1994",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4.15",
+                "Diameter (mm)": "20.8",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9881": {
+                "Number": "KM# 988",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "100 lira",
+                "Year": "1988-1994",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "4.15",
+                "Diameter (mm)": "20.8",
+                "Thickness (mm)": "1.8"
+            }
+        },
+        {
+            "9890": {
+                "Number": "KM# 989",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "500 lira",
+                "Year": "1988-1998",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "6.15",
+                "Diameter (mm)": "24",
+                "Thickness (mm)": "1.85"
+            }
+        },
+        {
+            "9891": {
+                "Number": "KM# 989",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "500 lira",
+                "Year": "1988-1998",
+                "Composition": "Aluminium-Bronze",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "6.15",
+                "Diameter (mm)": "24",
+                "Thickness (mm)": "1.85"
+            }
+        },
+        {
+            "9970": {
+                "Number": "KM# 997",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1.000 lira",
+                "Year": "1990-1994",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "8.1",
+                "Diameter (mm)": "25.8",
+                "Thickness (mm)": "2.2"
+            }
+        },
+        {
+            "9971": {
+                "Number": "KM# 997",
+                "Country": "Turkey",
+                "Period": "Republic of Turkey (1981 - 2000)",
+                "Coin type": "Circulation coins",
+                "Denomination": "1.000 lira",
+                "Year": "1990-1994",
+                "Composition": "Copper-Zinc-Nickel",
+                "Edge type": "Reeded",
+                "Shape": "Round",
+                "Alignment": "Coin (180°)",
+                "Weight (g)": "8.1",
+                "Diameter (mm)": "25.8",
+                "Thickness (mm)": "2.2"
             }
         }
     ]
