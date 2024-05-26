@@ -145,17 +145,21 @@ async def upload_file(file: UploadFile = File(...)):
     reduced_quality_image = resized_image.copy()
     reduced_quality_image.save(reduced_quality_filepath, quality=90)
 
+    # Read the reduced quality file content
     async with aiofiles.open(reduced_quality_filepath, 'rb') as f:
-        response = requests.post("https://coinrecognition.onrender.com/preprocess_image/", files={"file": f})
-        if response.status_code != 200:
-            raise HTTPException(status_code=500, detail="Failed to preprocess image")
+        file_content = await f.read()
 
-    try:
-        final_image = Image.open(BytesIO(response.content))
-    except UnidentifiedImageError:
-        raise HTTPException(status_code=500, detail="Cannot identify final image file")
+    # Decode the image
+    decoded_img = img_decode(file_content)
 
-    image_np = np.array(final_image)
+    # Preprocess the image
+    preprocessed_img = preprocessimage(decoded_img)
+    if preprocessed_img is None:
+        raise HTTPException(status_code=400, detail="No circles detected in the image.")
+
+    # Convert the preprocessed image to a format suitable for model prediction
+    preprocessed_img_pil = Image.fromarray(cv2.cvtColor(preprocessed_img, cv2.COLOR_BGR2RGB))
+    image_np = np.array(preprocessed_img_pil)
     image_np = image_np.reshape((1, img_width, img_width, 3))
 
     np.save(os.path.join(UPLOAD_FOLDER, "image_np.npy"), image_np)
@@ -164,7 +168,7 @@ async def upload_file(file: UploadFile = File(...)):
     predicted_class = class_names[np.argmax(predictions['predictions'][0])]
 
     key = predicted_class
-    coin_info = requests.get(f"https://coinrecognition.onrender.com/get_info/{key}").json()
+    coin_info = await get_info(key)
 
     return JSONResponse(content={
         "message": "File uploaded successfully",
@@ -181,7 +185,7 @@ async def preprocess_image(file: UploadFile = File(...)):
     preprocessed_img = preprocessimage(decoded_img)
     if preprocessed_img is not None:
         encoded_img = img_encode(preprocessed_img)
-        return StreamingResponse(io.BytesIO(encoded_img), media_type="image/jpeg")
+        return StreamingResponse(BytesIO(encoded_img), media_type="image/jpeg")
     else:
         return JSONResponse(content={"message": "No circles detected in the image."}, status_code=400)
 
@@ -191,6 +195,7 @@ async def get_info(key: str):
         if key in entry:
             return entry[key]
     return JSONResponse(content={"message": "Key not found in the data."}, status_code=404)
+
 
 @app.post("/preprocess_concat_image/")
 async def preprocess_concat_image(file: UploadFile = File(...)):
