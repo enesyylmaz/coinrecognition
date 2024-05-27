@@ -11,6 +11,9 @@ app = FastAPI()
 with open('coin_information.json') as f:
     data = json.load(f)
 
+with open('coin_information_concat.json') as f:
+    data_concat = json.load(f)
+
 def img_decode(image):
     return cv2.imdecode(np.frombuffer(image, np.uint8), -1)
 
@@ -72,6 +75,13 @@ async def preprocess_image(file: UploadFile = File(...)):
 @app.get("/get_info/{key}")
 async def get_info(key: str):
     for entry in data["entries"]:
+        if key in entry:
+            return entry[key]
+    return {"message": "Key not found in the data."}
+
+@app.get("/get_info_concat/{key}")
+async def get_info_concat(key: str):
+    for entry in data_concat["entries"]:
         if key in entry:
             return entry[key]
     return {"message": "Key not found in the data."}
